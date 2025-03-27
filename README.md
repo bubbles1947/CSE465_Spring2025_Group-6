@@ -1,5 +1,6 @@
 # CSE465_Spring2025_Group-6
 
+Glaucoma Detection using fundus images of the eye.
 1. Mueid Islam Arian-2121947642
 
 Aug_methods:
