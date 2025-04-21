@@ -13,5 +13,4 @@ Random Affine Transformations - Applies small translations (±10%) and scaling (
 
 table plotted on train file.
 
-final Plan;
-Finalize the remaining steps and complete the entire process. 
+
