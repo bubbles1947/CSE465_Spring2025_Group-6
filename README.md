@@ -11,6 +11,14 @@ Random Vertical Flip - Flips images vertically with a 50% probability, adding an
 Color Jitter - Adjusts brightness and contrast randomly (±20%), helping the model generalize across different imaging conditions and equipment settings.
 Random Affine Transformations - Applies small translations (±10%) and scaling (90-110%) to simulate slight variations in camera positioning and zoom levels.
 
-table plotted on train file.
+table plotted on train file. architecture on nertwork.png file.
+
+
+contribution: Mueid Islam Arian. 
+1. data augmentation
+2. 5-Fold cross validation.
+3. Used transfer learning for image classification.
+4. Training the model.
+5. Making diagram for the architecture.
 
 DATASET LINK: https://www.kaggle.com/datasets/victorlemosml/refuge2
