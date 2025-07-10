@@ -14,7 +14,7 @@ Random Affine Transformations - Applies small translations (±10%) and scaling (
 table plotted on train file. architecture on nertwork.png file.
 
 
-contribution: Mueid Islam Arian. 
+contribution: 
 1. data augmentation
 2. 5-Fold cross validation.
 3. Used transfer learning for image classification.
